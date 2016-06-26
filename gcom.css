@@ -50,3 +50,8 @@ i.fa {
 	color: #ff0000;
 	cursor: pointer;
 }
+}
+.fa-github:hover {
+	color: #faf757;
+	cursor: pointer;
+}
