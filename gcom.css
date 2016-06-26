@@ -46,4 +46,7 @@ i.fa {
 	color: #abc93f;
 	cursor: pointer;
 }
-
+.fa-slack:hover {
+	color: #ff0000;
+	cursor: pointer;
+}
