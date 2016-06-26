@@ -2,7 +2,7 @@ html {
 	min-height: 100%;
 }
 body {
-    background-image: url("images/industrial_background.jpg");
+    background-image: url("images/background.jpg");
     background-color: #282828;
 	background-size: cover;
     height: 100%;
