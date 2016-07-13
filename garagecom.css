@@ -41,8 +41,13 @@ i.fa {
     color: #abc93f;
     cursor: pointer;
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 768px){
     .flex-container {
         flex-direction:column;
+    }
+}
+@media screen and (max-width: 768px){
+    .flex-item {
+        margin: 35px;
     }
 }
