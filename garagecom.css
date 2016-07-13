@@ -41,7 +41,7 @@ i.fa {
     color: #abc93f;
     cursor: pointer;
 }
-@media screen and (max-width: 320){
+@media screen and (max-width: 320px){
     flex-container {
         background-color: blue;
     }
