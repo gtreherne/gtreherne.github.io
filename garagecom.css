@@ -41,12 +41,12 @@ i.fa {
     color: #abc93f;
     cursor: pointer;
 }
-@media (device-width: 500px){
+@media (max-width: 500px){
     .flex-container {
         flex-direction:column;
     }
 }
-@media (device-width: 500px){
+@media (max-width: 500px){
     .flex-item {
         margin: 35px;
     }
