@@ -42,7 +42,7 @@ i.fa {
     cursor: pointer;
 }
 @media screen and (max-width: 320px){
-    flex-container {
+    body {
         background-color: blue;
     }
 }
